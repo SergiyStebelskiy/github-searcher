@@ -1,0 +1,7 @@
+.details {
+  li {
+    &:not(:first-child) {
+      margin-top: 8px;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+.userDetails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  .avatar {
+    width: 200px;
+    height: 200px;
+    margin-right: 36px;
+  }
+}
+.bio {
+  display: block;
+  text-align: center;
+  margin: 30px 0;
+}
